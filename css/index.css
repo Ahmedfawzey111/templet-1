@@ -450,4 +450,10 @@ img {
   color: #000;
 }
 
+@media (max-width: 780px ) {
+  .special-heading {
+     flex-wrap: wrap;
+  }
+}
+
 
